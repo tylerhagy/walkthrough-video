@@ -1,0 +1,8 @@
+{
+  "name": "walkthrough-video",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Narrated, captioned MP4 + SRT walkthroughs of HTML prototypes. A Claude Code skill.",
+  "dependencies": { "playwright-core": "1.49.1" }
+}
